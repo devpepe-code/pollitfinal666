@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/terms-of-use.html",
+      "destination": "/terms-of-use.html"
+    }
+  ]
+}
